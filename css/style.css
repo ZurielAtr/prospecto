@@ -1,0 +1,17 @@
+.prospecto {
+    position: absolute;
+    z-index: 1;
+    padding: 10px 30px 10px 30px;
+    background-color: #0079c2;
+    font-size: 30px;
+    color: white;
+    margin: 0;
+    bottom: 260px;
+}
+
+.post-btn {
+    position: absolute; 
+    top: 606px; 
+    margin: 0; 
+    left: 490px;
+}
